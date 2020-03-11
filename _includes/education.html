@@ -2,10 +2,5 @@
   <h3>{{ site.education_title | default: "Education" }}</h3>
   {% for education in site.data.education %}
     {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
-  education:
-   level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
   {% endfor %}
 </div>
