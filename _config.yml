@@ -27,7 +27,7 @@ cv   : "resume.pdf"
 about_profile_image: images/ax.png
 about_content: | # this will include new lines to allow paragraphs
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
+    - [PDF Of My Resume](https://moya10.github.io/awesome-cv/resume.pdf)
     
   Research interest:
     - Machine learning
