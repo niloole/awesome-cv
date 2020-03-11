@@ -1,18 +1,16 @@
 # Education Template
 - layout: left
-  level: Master of Science (B.Sc.)
   name: Isfahan University of Technology
   dates: 2017 - 2020
-  qualification: Control Engeineering
+  qualification: M.Sc. Control Engeineering
   quote: >
     #Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
 - layout: left
-  level: Bachelor of Science (B.Sc.) 
-  name: B.Sc Isfahan University of Technology
+  name: Isfahan University of Technology
   dates: 2013 – 2017
-  qualification: Control Engeineering
+  qualification: B.Sc. Control Engeineering
   quote: >
   description: | # this will include new lines to allow paragraphs
     Description of qualification
