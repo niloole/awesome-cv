@@ -4,9 +4,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Niloofar Borhani
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
+email: borhaniniloofar1374@gmail.com
+phone: (+98)9133203525
 cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
