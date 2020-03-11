@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Images
     
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education #(Use this to override about education section title)
 Institution name: IUT
 level: Bachelor of Science (B.Sc.)
 date: 2003
