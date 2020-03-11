@@ -2,5 +2,6 @@
   <h3>{{ site.education_title | default: "Education" }}</h3>
   {% for education in site.data.education %}
     {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
+  name: Isfahan University of Technology
   {% endfor %}
 </div>
