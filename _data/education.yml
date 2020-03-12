@@ -3,7 +3,7 @@
   name: Isfahan University of Technology
   dates: 2017 - 2020
   qualification: M.Sc. Control Engeineering
-  quote: >
+  #quote: >
   description: | # this will include new lines to allow paragraphs
     GPA: 18.64/20 (4/4)
     
@@ -18,7 +18,7 @@
   name: Isfahan University of Technology
   dates: 2013 – 2017
   qualification: B.Sc. Control Engeineering
-  quote: >
+  #quote: >
   description: | # this will include new lines to allow paragraphs
     GPA: 18.45/20 (4/4)
     
