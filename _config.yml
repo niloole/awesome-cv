@@ -32,6 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Machine learning
     - Data science
     - systems biology
+    - Systems modeling
     
 # Education Section
 # education_title: Education #(Use this to override about education section title)
