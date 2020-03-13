@@ -7,5 +7,8 @@
   # -miRNA targets prediction with computational methods
   #Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-   -miRNA targets prediction
-   -mmmmmm
+   -miRNA targets prediction with computational methods
+   
+   -Data integration for prediction of inter-omics layers interactions in multi-layer networks using matrix factorization
+   
+   -Prediction of gene ontology by deep learning
