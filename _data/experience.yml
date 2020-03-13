@@ -5,7 +5,7 @@
   job_title: Teacher assisment 
   dates: Jan 2018 – Jun 2018,    
          Jan 2019 – Jun 2019
-  quote: >
-   Short description of the company (optional)
+  #quote: >
+   #Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     In digital control labratory
