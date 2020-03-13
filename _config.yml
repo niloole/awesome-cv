@@ -29,7 +29,9 @@ about_content: | # this will include new lines to allow paragraphs
   [PDF Of My Resume](https://moya10.github.io/awesome-cv/resume.pdf)
     
   Research interest:
-    - Machine learning
+    - Machine learning, Deep learning
+    - Node embedding
+    - Representation learning
     - Data science
     - systems biology
     - Systems modeling
