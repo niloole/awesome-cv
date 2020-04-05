@@ -10,7 +10,7 @@
   description: | # this will include new lines to allow paragraphs
     In digital control labratory
     
-    
+- layout: left   
   company: Isfahan University of Technology
   #link: Link to company (optional)
   job_title: Reader assisment 
@@ -22,6 +22,3 @@
   description: | # this will include new lines to allow paragraphs
     Research methodology
     Electrical circuit 2
-
-
-
