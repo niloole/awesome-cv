@@ -1,248 +1,140 @@
-%!TEX TS-program = xelatex
-%!TEX encoding = UTF-8 Unicode
-
-\documentclass[11pt, a4paper]{article}
-
-% LAYOUT
-%--------------------------------
-% Margins
-\usepackage{geometry}
-\geometry{a4paper, left=35mm, right=35mm, top=25mm, bottom=25mm}
-
-% Do not indent paragraphs
-\setlength\parindent{0in}
-
-% Enable multicolumns
-\usepackage{multicol}
-\setlength{\columnsep}{-3.5cm}
-
-% Uncomment to suppress page numbers
-% \pagenumbering{gobble}
-
-% LANGUAGE
-%--------------------------------
-\usepackage{fontspec,xgreek,polyglossia}
-\defaultfontfeatures{Mapping=tex-text}
-\setmainfont[Path=font/, Mapping=tex-text]{GFSDidot.otf}
-
-\setdefaultlanguage{english}
-\setotherlanguage[variant=modern]{greek}
-% add hyp rules or replace compound words with \hyp{}
-\usepackage{hyphenat}
-
-% TYPOGRAPHY
-%--------------------------------
-\usepackage{xunicode}
-\usepackage{xltxtra}
-
-% nice icons
-\usepackage{fontawesome5}
-\usepackage{academicons}
-% reduce widows and orphans
-\usepackage[all]{nowidow}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-
-\usepackage[protrusion=true,final]{microtype}
-\usepackage{hyperref}
-
-
-% MARGIN NOTES
-%--------------------------------
-\usepackage{marginnote}
-\newcommand{\note}[1]{\marginnote{\scriptsize #1}}
-\renewcommand*{\raggedleftmarginnote}{}
-\setlength{\marginparsep}{7pt}
-\reversemarginpar
-
-% HEADINGS
-%--------------------------------
-\usepackage{sectsty}
-\usepackage[normalem]{ulem}
-\sectionfont{\rmfamily\mdseries}
-\subsectionfont{\rmfamily\mdseries\scshape\normalsize}
-\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize}
-\setcounter{secnumdepth}{0}
-
-% PDF SETUP
-%--------------------------------
-\usepackage{hyperref}
-\hypersetup
-{
-  pdfauthor={Ραφαηλια Ασημακοπουλου},
-  pdfsubject={Ραφαηλια Ασημακοπουλου CV},
-  pdftitle={Ραφαηλια Ασημακοπουλου CV},
-  colorlinks, breaklinks, xetex, bookmarks,
-  filecolor=black,
-  urlcolor=[rgb]{0.117,0.682,0.858},
-  linkcolor=[rgb]{0.117,0.682,0.858},
-  linkcolor=[rgb]{0.117,0.682,0.858},
-  citecolor=[rgb]{0.117,0.682,0.858}
-}
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ‎Medium Length Graduate Curriculum Vitae‎
+% ‎LaTeX Template‎
+% ‎Version 1.1 (9/12/12)‎
 %
-%bibliography
-\usepackage[backend=biber,style=numeric,firstinits=true,sorting=ynt,maxnames=5,minnames=3,hyperref=false,isbn=false,doi=false,url=false,safeinputenc=true,language=english]{biblatex}
-\usepackage{csquotes}
-\usepackage{hyperref}
-\DeclareNameAlias{default}{last-first}
+% ‎This template has been downloaded from‎:
+% ‎http://www.LaTeXTemplates.com‎
+%
+% ‎Original author‎:
+% ‎Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/)‎
+%
+% ‎Important note‎:
+% ‎This template requires the res.cls file to be in the same directory as the‎
+% .‎tex file‎. ‎The res.cls file provides the resume style used for structuring the‎
+% ‎document‎.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%J1, J2, etc
-\makeatletter
-\define@key{blx@bib2}{prefixnumbers}{%
-  \def\blx@prefixnumbers{#1}%
-  \iftoggle{blx@defernumbers}
-    {}
-    {\iftoggle{blx@labelnumber}
-       {\blx@warning{%
-          Option 'prefixnumbers' requires global\MessageBreak
-          'defernumbers=true'}}
-       {}}}
-\makeatother
+%----------------------------------------------------------------------------------------
+‎%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS‎
+%----------------------------------------------------------------------------------------
 
-% table of contents without dots
-\usepackage{tocloft}
-\renewcommand{\cftdot}{}
+‎\documentclass[margin‎, ‎10pt]{res} % Use the res.cls style‎, ‎the font size can be changed to 11pt or 12pt here‎
+‎\usepackage{hyperref}‎
+‎\usepackage{helvet} % Default font is the helvetica postscript font‎
+‎%\usepackage{newcent} % To change the default font to the new century schoolbook postscript font uncomment this line and comment the one above‎
 
-% bibliography sections
-\makeatletter
-\newcommand{\bibsection}[3]{
-\subsection{#1}
-\begin{refsection}[#2]
-  \nocite{*}
-  \begin{refcontext}[prefixnumbers=#3]
-    \printbibliography[heading=none]
-  \end{refcontext}
-\end{refsection}
-}
-\makeatother
+‎\setlength{\textwidth}{5.1in} % Text width of the document‎
 
-% titlepages style
-\newlength{\drop}% for my convenience
+‎\begin{document}‎
+‎\moveleft.5\hoffset\centerline{\large\bf Niloofar Borhani} % Your name at the top‎
+‎\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'‎
+‎\moveleft.5\hoffset\centerline{borhaniniloofar1374@gmail.com} % Your address‎
+‎\moveleft.5\hoffset\centerline{‎
+‎\href{https://niloole.github.io/awesome-cv/}{(website CV‎: https://niloole.github.io/awesome-cv/)}‎
+}‎
+‎\moveleft.5\hoffset\centerline{+98 913 320 3525}‎
 
-%titleS
-\makeatletter
-\newcommand*{\titleS}{\begingroup% Scripts, T&H p 151
-\drop = 0.1\textheight
-\centering
-\vspace*{\drop}
-{\Huge \@title}\\[\baselineskip]
-{\large\itshape \@author}\\[\baselineskip]
-\vfill
-\rule{0.4\textwidth}{0.4pt}\\[\baselineskip]
-{\large\itshape \@date}\par
-\vspace*{\drop}
-\endgroup}
-\makeatother
+‎\begin{resume}‎
+‎%\section{OBJECTIVE}‎  
+‎%A position in the field of computers with special interests in business applications programming‎, ‎information processing‎, ‎and management systems‎. 
+‎\section{EDUCATION}‎
 
-%titleGM
-\makeatletter
-\newcommand*{\titleGM}{\begingroup% Gentle Madness
-\drop = 0.1\textheight
-  \hbox{%
-  \hspace*{0.1\textwidth}%
-  \rule{1pt}{\textheight}
-  \hspace*{0.05\textwidth}%
-  \parbox[b]{0.75\textwidth}{
-  \vbox{%
-    \vspace{\drop}
-    {\noindent\Huge\bfseries Ραφαηλια\\[0.5\baselineskip]
-               Ασημακοπουλου}\\[2\baselineskip]
-    {\Large\itshape Φοιτητρια\\[0.5\baselineskip]
-                    
-    \textsc{\LARGE \@title}
-    \vspace{0.5\textheight}
-    {\noindent \@date}\\[\baselineskip]}
-    }% end of vbox
-    }% end of parbox
-  }% end of hbox
-\endgroup}
-\makeatother
+‎{\sl \textbf{Master of Science,}} \textbf{Isfahan University of Technology }\\‎
+‎\textbf{Control Engineering, ‎2017‎ - ‎2020} \\‎
+‎\textbf{GPA‎: ‎18.64/20 (4/4)} \\‎
+‎\textbf{Thesis title:} Data integration for prediction of inter-omics layers interactions in multi-layer networks using matrix factorization\\‎
+‎\textbf{Supervisors:} Dr.Jafar Ghaisari and Dr.Marzieh Kamali\\‎
+‎\textbf{Advisor:} Dr.Yousof Gheisar\\‎
 
-\title{Βιογραφικό Σημείωμα}
-\author{Ραφαηλια Ασημακοπουλου, Φοιτητρια}
+‎{\sl \textbf{Bachelor of Science,}}\textbf{ Isfahan University of Technology}\\‎
+‎\textbf{Control Engineering,‎ ‎2013 – 2017}\\‎
+‎\textbf{GPA‎: ‎18.45/20 (4/4)}\\‎
+‎\textbf{Thesis title:} Farsi handwritten recognition using ensemble of neural networks\\‎
+‎\textbf{Supervisor:} Dr.Marzieh Kamali‎
+ 
+‎\section{HONOURS \& AWARDS}‎
+‎\begin{itemize}‎ 
+‎\item Ranking 2 among control engineering students in the department of electrical engineering at Isfahan University of Technology‎ 
+‎\item Among the top $ 10 \% $ of undergraduate electrical engineering (ranking 2 among undergraduate control engineering) in the department of electrical engineering at Isfahan University of Technology in 2017‎ 
+‎\item Among the best students of Isfahan province in the diploma
+‎\item Among top $ 1 \% $ of participates in Iranian University entrance exam for master degree‎
+‎\item Received national graduate and undergraduate full scholarship‎
+‎\end{itemize}‎ 
 
-% DOCUMENT
-%--------------------------------
-\begin{document}
+‎\section{RESEARCH INTERESTS}‎
+‎\begin{itemize}‎ 
+‎\item Machine learning‎, ‎Deep learning‎
+‎\item Node embedding‎
+‎\item Representation learning‎
+‎\item Data Science‎
+‎\item Systems biology‎
+‎\item Systems modeling‎ 
+‎\end{itemize}‎ 
 
-\pagestyle{empty}
-\titleGM
-\clearpage
+‎\section{ACADEMIC PROJECTS}‎
+‎\begin{itemize}‎ 
+‎\item miRNA targets prediction with computational methods‎
+‎\item Data integration for prediction of inter-omics layers interactions in multi-layer networks using matrix factorization‎
+‎\item Prediction of gene ontology by deep learning‎ 
+‎\item Modeling corona virus transmission with the agent based method‎
+‎\item Introduction to modeling biological systems (ODE‎, ‎Petri nets‎, etc‎)‎
+‎\item Campbell's Biology Summary in Simple Language‎
+‎\item Implementation adaptive controllers for controlling speed‎
+‎\item Farsi handwritten recognition using ensemble of neural networks
+‎\item Using Bluetooth module and proximity sensors for RGB LED‎ 
+‎\item Construction of Buck converter‎
+‎\item Construction of FM receiver‎
+  
+‎\end{itemize}‎ 
+ 
+ 
+‎\section{PUBLICATION}‎
+‎A deep learning method for miRNA targets prediction (In prep)‎
 
-\tableofcontents
-\clearpage
+ 
+‎\section{EXPERIENCE}‎
+‎{\sl \textbf{Teacher assessment}} \\‎
+ ‎Isfahan University of Technology‎, ‎In digital control laboratory\\‎
+ ‎January 2018 – June 2018 \\‎
+ ‎January 2019 – June 2019‎ 
+ 
+‎{\sl \textbf{Reader assessment}} \\‎
+ ‎Isfahan University of Technology \\‎
+‎Research methodology‎, ‎June 2018 \\‎
+E‎lectrical circuit \rom{2}‎, ‎January 2019‎ 
+%
+‎%\begin{itemize} \itemsep‎ -‎2pt % Reduce space between items‎
+‎%\item Developed four ``user friendly‎" ‎forecasting systems each of which produces 18 to 139 individual reports‎. 
+‎%\item Developed or improved almost all IFPS programs used for financial reports‎. 
+‎%\end{itemize}‎
+% 
+‎\section{COMPUTER \\ SKILLS}‎ 
 
-\pagestyle{plain}
+‎{\sl \textbf{Programming:}}‎ 
+‎Python‎, ‎MATLAB‎, ‎C‎, ‎VERILOG‎
+‎\vspace{0.2cm}\\‎
+‎{\sl \textbf{Software:}}‎
+‎Microsoft Office‎, ‎\LaTeX‎ , ‎AutoCAD‎, LabVIEW, ‎AVR and Proteus‎, ‎SIMATIC Manager and WinCC‎ 
 
+‎\section{LANGUAGE}‎
+‎{\sl \textbf{Persian:}} Native\\‎
+‎{\sl \textbf{English:}} Fluent (TOEFL iBT‎: ‎will be taken on Sep 2020)‎
+             
+             
+‎\section{MEMBERSHIP}‎ 
+‎Regenerative Medicine Research center at Isfahan University of Medical Sciences‎
+‎\href{https://rml.mui.ac.ir/}{(website‎: ‎https://rml.mui.ac.ir/)}‎
 
+‎\section{REFERENCES}‎
+‎\textbf{Dr‎. ‎Jafar Ghaisari‎ }
+‎Associative Professor‎, ‎Department of Electrical and Computer Engineering‎, ‎Isfahan University of Technology‎, ‎Isfahan‎, ‎Iran‎, ‎\underline{ghaisari@cc.iut.ac.ir}‎ 
 
-{\LARGE Ραφαηλια Ασημακοπουλου}\\[.2cm]
-\textit{Φοιτητρια}\\[.2cm]
+‎\textbf{Dr‎. ‎Marzieh Kamali‎ } 
+‎Assistant Professor‎, ‎Department of Electrical and Computer Engineering‎, ‎Isfahan University of Technology‎, ‎Isfahan‎, ‎Iran‎, ‎\underline{m.kamali@cc.iut.ac.ir}‎ 
 
-\begin{multicols}{2}
-
-{\scriptsize
-Πανεπιστήμιο Πατρας\\
-Ελλάδα\\
-}
-
-\columnbreak
-
-{\scriptsize
-\faStyle{regular}
-\faHome \hspace{0.1cm} \href{http://github.com/moya10}{github.com/moya10}\\
-\faEnvelope \hspace{0.1cm} \href{mailto:simple@example.com}{simple@example.com}\\
-
-\vfill
-
-\faPhone +30 694 038 8968\\
-}
-
-\end{multicols}
-
-\vspace{30pt}
-
-
-\section{Ερευνητικά ενδιαφέροντα}
-          \quad Τεχνολογίες λογισμικού
-          \quad Προγραμματισμός πολυμέσων
-    
-% \vfill
-
-\vspace{25pt}
-
-\section{Εργασία}
-\noindent
-\note{2012---}\textsc{Πανεπιστήμιο Πατρας}\\
-\emph{Φοιτητρια (2012--)}\\
-Πατρα, Ελλάδα\\[.2cm]
-\note{2012---}\textsc{Πανεπιστήμιο Πατρας}\\
-\emph{Φοιτητρια (2012--)}\\
-Πατρα, Ελλάδα\\[.2cm]
-
-\section{Εκπαίδευση}
-\noindent
-\note{2012}\textsc{Msc Electrical and Computer Engineering}\\
-\emph{, }\\
-\emph{Electrical and Computer Engineering, University of Patras}.\\[.2cm]
-
-\section{Γλώσσες}
-\emph{Ελληνικά} (Μητρική)\\
-\emph{Αγγλικά} (Μετρια)\\
-
-%\vspace{1cm}
-\vfill{}
-%\hrulefill
-
-\begin{center}
-{\scriptsize  Τελευταία ενημέρωση: \today\- •\-
-% ---- PLEASE LEAVE THIS BACKLINK FOR ATTRIBUTION AS PER CC-LICENSE
-Η σελιδοποίση έγινε με το \href{https://github.com/mrzool/cv-boilerplate}{
-\fontspec{Times New Roman}\XeTeX }\\
-% ---- FILL IN THE FULL URL TO YOUR CV HERE
-\href{http://github.com/moya10}{github.com/moya10}}
-\end{center}
-
-\end{document}
+‎\textbf{Dr‎. ‎Yousof Gheisar‎ }
+‎MD‎, ‎PhD‎, ‎Associative Professor‎, ‎Isfahan University of Medical Sciences‎, ‎Isfahan‎, ‎Iran‎, ‎\underline{ygheisari@med.mui.ac.ir}‎
+‎\end{resume}‎
+‎\end{document}
