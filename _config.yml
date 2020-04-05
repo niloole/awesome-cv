@@ -48,7 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-**Dr. Jafar Ghaisari**, Associative Professor, Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, Iran, *ghaisari@cc.iut.ac.ir* 
+  **Dr. Jafar Ghaisari**, Associative Professor, Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, Iran, *ghaisari@cc.iut.ac.ir* 
 # Footer
 footer_show_references: true
 
