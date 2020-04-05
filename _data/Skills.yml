@@ -1,13 +1,13 @@
-  # Skills template
+   # Skills template
 - layout: top-middle
-  #name: Skills
+  #name: -miRNA targets prediction with computational methods
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
-    #Short overview of the project (optional)
+  # -miRNA targets prediction with computational methods
+  #Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-  description: | # this will include new lines to allow paragraphs
-   Programming: Python, MATLAB, C, VERILOG 
-    
+   Programming: python, MATLAB, C, VERILOG
+   
    Software: Microsoft Office, LaTeX, AutoCAD, LabVIEW, AVR and Proteus, SIMATIC Manager and WinCC 
-
+   
