@@ -1,6 +1,6 @@
-<div class="container Skill-container">
+<div class="container Skills-container">
   <h3>{{ site.Skill_title | default: "Skills" }}</h3>
-  {% for Skill in site.data.Skill %}
-    {% include {{ Skill.layout | default: 'left' | append: ".html" }} item=Skill %}
+  {% for Skills in site.data.Skill %}
+    {% include {{ Skills.layout | default: 'left' | append: ".html" }} item=Skills %}
   {% endfor %}
 </div>
