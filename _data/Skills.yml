@@ -1,12 +1,12 @@
    # Skills template
 - layout: top-middle
-  name: -miRNA targets prediction with computational methods
+  #name: -miRNA targets prediction with computational methods
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
   # -miRNA targets prediction with computational methods
   #Short overview of the project (optional)
-  #description: | # this will include new lines to allow paragraphs
-   #-A deep learning method for miRNA targets prediction (In prep)
+  description: | # this will include new lines to allow paragraphs
+   -A deep learning method for miRNA targets prediction (In prep)
 
    
