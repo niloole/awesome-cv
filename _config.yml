@@ -25,8 +25,7 @@ cv   : "resume.pdf"
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/ax.png
-about_content: | # this will include new lines to allow paragraphs #[PDF Of My Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    
+about_content: | # this will include new lines to allow paragraphs #[PDF Of My Resume](https://moya10.github.io/awesome-cv/resume.pdf) 
   Research interest:
     - Machine learning, Deep learning
     - Node embedding
