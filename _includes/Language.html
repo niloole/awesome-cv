@@ -1,0 +1,6 @@
+<div class="container Language-container">
+  <h3>{{ site.Language_title | default: "Language" }}</h3>
+  {% for Language in site.data.Language %}
+    {% include {{ Language.layout | default: 'left' | append: ".html" }} item=Language %}
+  {% endfor %}
+</div>
