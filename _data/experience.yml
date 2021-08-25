@@ -10,16 +10,16 @@
   description: | # this will include new lines to allow paragraphs
     In digital control labratory, industrial process control, and research methodology
     
-- layout: left   
-  company: Isfahan University of Technology
+#- layout: left   
+  #company: Isfahan University of Technology
   #link: Link to company (optional)
-  job_title: Reader assisment 
-  dates: June 2018, January 2019
+  #job_title: Reader assisment 
+  #dates: June 2018, January 2019
 
   #quote: >
    #Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Research methodology, Electrical circuit 2
+  #description: | # this will include new lines to allow paragraphs
+    #Research methodology, Electrical circuit 2
     
 #- layout: left   
   #company: Engineer
