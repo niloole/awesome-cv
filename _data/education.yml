@@ -1,6 +1,19 @@
 # Education Template
 - layout: left
   name: Isfahan University of Technology
+  dates: 2021 – present
+  qualification: PHD Control Engeineering
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    **GPA:** 19.46/20
+       
+    **Thesis title:** Data integration for prediction of inter-omics layers interactions in multi-layer networks using matrix factorization
+   
+    **Supervisors:** Dr.Iman Izadi
+    
+    **Advisor:** Dr.Yousof Gheisari
+- layout: left
+  name: Isfahan University of Technology
   dates: 2017 – 2020
   qualification: M.Sc. Control Engeineering
   #quote: >
