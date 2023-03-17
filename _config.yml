@@ -7,7 +7,7 @@ name: Niloofar Borhani
 email: borhaniniloofar1374@gmail.com
 phone: (+98)9133203525
 cv   : "resume.pdf"
-#website: Your website (eg. https://google.com)(optional)
+website: https://scholar.google.com/citations?user=SSD_k8MAAAAJ&hl=en&oi=ao
 
 # Social links
 #twitter_username: jekyllrb
@@ -23,14 +23,12 @@ linkedin_username: niloofar-borhani-594005189
 #googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+# about_title: About Me (Use this to override about section title)    I started to get interested in systems biology when I was working on my M.Sc. thesis which was about predicting inter-omics interactions in multi-layer networks by deep learning methods. While working on biological systems, their networks and modules, I was always fascinated by how “engineered” those systems are. As a control engineer, I was trained to implement control algorithms and yet I could detect “finely-tuned control modules” which were right there at the heart of biological networks. That fascination led me to persue a Ph.D. in the same field. The Dissertation was centered around revealing the dynamics behind macrophage polarization and phenotype distribution using mathematical modeling approaches. 
+
 about_profile_image: images/ax.png
 about_content: | # this will include new lines to allow paragraphs [PDF Of My Resume](https://moya10.github.io/awesome-cv/resume.pdf) 
- I received my B.Sc. and M.Sc. degrees with honors in Electrical Engineering (Control engineering) from Isfahan University of Technology (IUT), Iran, in 2020 and 2017 respectively. My graduate studies were mostly focused on the interdisciplinary field of systems biology and therefore, I used to work simultaneously at "Department of electrical and computer engineering (Isfahan university of technology)" and "Regenerative Medicine Research Center (Isfahan University of Medical Sciences)" to be able to integrate modeling approaches with hot topics in biology. 
+ I received my B.Sc. and M.Sc. degrees with honors in Electrical Engineering (Control engineering) from Isfahan University of Technology (IUT), Iran, in 2020 and 2017 respectively. My graduate studies were mostly focused on the interdisciplinary field of systems biology and therefore, I used to work simultaneously at "Department of electrical and computer engineering (Isfahan university of technology)" and "Regenerative Medicine Research Center (Isfahan University of Medical Sciences)" to be able to integrate modeling approaches with hot topics in biology.  
  
- 
- I started to get interested in systems biology when I was working on my M.Sc. thesis which was about predicting inter-omics interactions in multi-layer networks by deep learning methods. While working on biological systems, their networks and modules, I was always fascinated by how “engineered” those systems are. As a control engineer, I was trained to implement control algorithms and yet I could detect “finely-tuned control modules” which were right there at the heart of biological networks. That fascination led me to persue a Ph.D. in the same field. The Dissertation was centered around revealing the dynamics behind macrophage polarization and phenotype distribution using mathematical modeling approaches. 
-
  
  **Research interest:**
    - Machine learning, Deep learning
