@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
   name: A deep learning approach to predict inter-omics interactions in multi-layer networks
-  link: Link to project (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04569-2)
+  link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04569-2
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
   # -miRNA targets prediction with computational methods
