@@ -8,15 +8,4 @@
   
   description: | # this will include new lines to allow paragraphs
   
-   • A deep learning approach to predict inter-omics interactions in multi-layer networks
-   
-      (published on BMC bioinformatics, 2022)
-      
-   • Inefficiency of SIR models in forecasting COVID-19 epidemic: a case study of Isfahan
-   
-      (published on Scientific Reports, 2021)
-
-   • Prediction of gene ontology by deep learning
-   
-      (Second place for best poster presentation at The 4th Iranian Conference on Systems Biology, 2020)
-
+   Despite enormous achievements in the production of high-throughput datasets, constructing comprehensive maps of interactions remains a major challenge. 
