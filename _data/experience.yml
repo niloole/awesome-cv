@@ -11,9 +11,9 @@
 
 ########################    1
 - layout: left   
-  #company: IUT
+  company: Teacher Assistant
   #link: Link to company (optional)
-  job_title:  Teacher Assistant in Deep Learning
+  job_title: Deep Learning
   dates: Isfahan University of Technology
 
   #quote: >
