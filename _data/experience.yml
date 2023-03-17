@@ -62,13 +62,13 @@
 - layout: left   
   #company: IUT
   #link: Link to company (optional)
-  job_title:  Teacher Assistant in Industrial Process Control
+  job_title:  Teacher Assistant
   dates: Isfahan University of Technology
 
   #quote: >
    #in Isfahan University of Technology
   description: | # this will include new lines to allow paragraphs
-    in Isfahan University of Technology
+    Industrial Process Control
     
     
  ########################    6    
