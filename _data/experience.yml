@@ -13,10 +13,11 @@
 - layout: left   
   #company: IUT
   #link: Link to company (optional)
-  job_title: Teacher Assistant in Nonlinear Control Systems
+  job_title: Teacher Assistant
+  job_title: Nonlinear Control Systems
   dates: Isfahan University of Technology
 
-  quote: 
+  quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     in the Research and development department at Dejpad Sanat Sazeh Company (a Knowledge-Based Company)
