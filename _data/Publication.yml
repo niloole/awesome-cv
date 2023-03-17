@@ -1,8 +1,8 @@
 # Project template
 - layout: top-middle
-  #name: -miRNA targets prediction with computational methods
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: -miRNA targets prediction with computational methods
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
   # -miRNA targets prediction with computational methods
   #Short overview of the project (optional)
