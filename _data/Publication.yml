@@ -28,10 +28,10 @@
 # Project template
 - layout: top
   name: Prediction of gene ontology by deep learning
-  link: https://civilica.com/doc/1290906/
+  link: iman.izadi@iut.ac.ir
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
-   #Second place for best poster presentation at The 4th Iranian Conference on Systems Biology, 2020
+   #Second place for best poster presentation at The 4th Iranian Conference on Systems Biology, 2020   https://civilica.com/doc/1290906/
   
   description: | # this will include new lines to allow paragraphs
    Second place for best poster presentation at The 4th Iranian Conference on Systems Biology, 2020
