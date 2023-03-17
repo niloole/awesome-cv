@@ -11,11 +11,11 @@
 
 ########################    1
 - layout: top   
-  company: Teacher Assistant in Deep Learning
+  #company: Teacher Assistant in Deep Learning
   #link: Link to company (optional)
-  job_title: Isfahan University of Technology, Isfahan, Iran
+  job_title: Teacher Assistant in Deep Learning
 
-  #dates: Teacher Mehtran safayani
+  dates: Isfahan University of Technology, Isfahan, Iran
 
   #quote: >
    #in Isfahan University of Technology
