@@ -12,9 +12,9 @@
 
 - layout: left   
   #company: IUT
-  link: Link to company (optional)
+  #link: Link to company (optional)
   job_title: Teacher Assistant in Nonlinear Control Systems
-  dates: June 2020 – Present
+  dates: Isfahan University of Technology
 
   quote: >
    #Short description of the company (optional)
