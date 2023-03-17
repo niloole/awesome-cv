@@ -75,7 +75,7 @@
 - layout: left   
   #company: IUT
   #link: Link to company (optional)
-  job_title:  Teacher Assistant in Adaptive control
+  job_title:  Teacher in Digital Control Lab
   dates: Isfahan University of Technology
 
   quote: >
@@ -87,7 +87,7 @@
 - layout: left   
   #company: IUT
   #link: Link to company (optional)
-  job_title:  Teacher Assistant in Nonlinear Control Systems
+  job_title:  Teacher Assistant in Adaptive control
   dates: Isfahan University of Technology
 
   quote: >
