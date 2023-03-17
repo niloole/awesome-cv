@@ -1,8 +1,8 @@
 # Project template
 - layout: top-middle
-  name: -miRNA targets prediction with computational methods
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: A deep learning approach to predict inter-omics interactions in multi-layer networks
+  link: Link to project (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04569-2)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
   # -miRNA targets prediction with computational methods
   #Short overview of the project (optional)
