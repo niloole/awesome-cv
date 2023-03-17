@@ -9,8 +9,32 @@
   description: | # this will include new lines to allow paragraphs
     In Nonlinear Control Systems, Instrumentation, Instrumentation Lab, Industrial Process Control, Adaptive Control, Digital Control Lab and Industrial Process Control
 
-
+########################    1
 - layout: left   
+  #company: IUT
+  #link: Link to company (optional)
+  job_title:  Teacher Assistant in Nonlinear Control Systems
+  dates: Isfahan University of Technology
+
+  quote: >
+   in Isfahan University of Technology
+  description: | # this will include new lines to allow paragraphs
+    in Isfahan University of Technology
+    
+ ########################    2 
+  - layout: left   
+  #company: IUT
+  #link: Link to company (optional)
+  job_title:  Teacher Assistant in Nonlinear Control Systems
+  dates: Isfahan University of Technology
+
+  quote: >
+   in Isfahan University of Technology
+  description: | # this will include new lines to allow paragraphs
+    in Isfahan University of Technology
+    
+    
+  - layout: left   
   #company: IUT
   #link: Link to company (optional)
   job_title:  Teacher Assistant in Nonlinear Control Systems
