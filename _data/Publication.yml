@@ -4,7 +4,7 @@
   link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04569-2
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
-  # -miRNA targets prediction with computational methods
+  # miRNA targets prediction with computational methods
   #Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    • A deep learning approach to predict inter-omics interactions in multi-layer networks
