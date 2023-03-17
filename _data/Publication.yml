@@ -1,7 +1,7 @@
 # Project template
 - layout: top
   name: A deep learning approach to predict inter-omics interactions in multi-layer networks
-  link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04569-2
+  link: https://doi.org/10.1186/s12859-022-04569-2
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
    #Published on BMC bioinformatics, 2022
@@ -15,7 +15,7 @@
 # Project template
 - layout: top
   name: Inefficiency of SIR models in forecasting COVID-19 epidemic a case study of Isfahan
-  link: https://www.nature.com/articles/s41598-021-84055-6
+  link: https://doi.org/10.1038/s41598-021-84055-6
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
    #Published on Scientific Reports, 2021
