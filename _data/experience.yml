@@ -39,7 +39,7 @@
   #company: IUT
   #link: Link to company (optional)
   job_title:  Teacher Assistant in Instrumentation 
-  dates: Isfahan University of Technology, Isfahan, Iran
+  dates:  Isfahan University of Technology, Isfahan, Iran
 
   #quote: >
    #in Isfahan University of Technology
@@ -50,51 +50,51 @@
 - layout: top   
   #company: IUT
   #link: Link to company (optional)
-  job_title:  Teacher
-  dates: Isfahan University of Technology
+  job_title:  Teacher in Instrumentation Lab
+  dates:  Isfahan University of Technology, Isfahan, Iran
 
   #quote: >
    #in Isfahan University of Technology
-  description: | # this will include new lines to allow paragraphs
-    Instrumentation Lab
+  #description: | # this will include new lines to allow paragraphs
+    #in Isfahan University of Technology
+    
 
     
 ########################    5    
 - layout: top   
   #company: IUT
   #link: Link to company (optional)
-  job_title:  Teacher Assistant
-  dates: Isfahan University of Technology
+  job_title:  Teacher Assistant in Industrial Process Control
+  dates:  Isfahan University of Technology, Isfahan, Iran
 
   #quote: >
    #in Isfahan University of Technology
-  description: | # this will include new lines to allow paragraphs
-    Industrial Process Control
-    
+  #description: | # this will include new lines to allow paragraphs
+    #in Isfahan University of Technology   
     
  ########################    6    
 - layout: top   
   #company: IUT
   #link: Link to company (optional)
   job_title:  Teacher in Digital Control Lab
-  dates: Isfahan University of Technology
+  dates:  Isfahan University of Technology, Isfahan, Iran
 
   #quote: >
    #in Isfahan University of Technology
-  description: | # this will include new lines to allow paragraphs
-    in Isfahan University of Technology   
+  #description: | # this will include new lines to allow paragraphs
+    #in Isfahan University of Technology    
 
 ########################    7    
 - layout: top   
   #company: IUT
   #link: Link to company (optional)
   job_title:  Teacher Assistant in Adaptive control
-  dates: Isfahan University of Technology
+  dates:  Isfahan University of Technology, Isfahan, Iran
 
   #quote: >
    #in Isfahan University of Technology
-  description: | # this will include new lines to allow paragraphs
-    in Isfahan University of Technology
+  #description: | # this will include new lines to allow paragraphs
+    #in Isfahan University of Technology   
 
   
  
