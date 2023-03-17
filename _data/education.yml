@@ -2,7 +2,7 @@
 - layout: left
   name: Isfahan University of Technology
   dates: since 2020
-  qualification: PHD Control Engeineering
+  qualification: PHD student of Control Engineering
   #quote: >
   description: | # this will include new lines to allow paragraphs
     **GPA:** A (19.44 out of 20)
@@ -15,7 +15,7 @@
 - layout: left
   name: Isfahan University of Technology
   dates: 2017 – 2020
-  qualification: M.Sc. Control Engeineering
+  qualification: M.Sc. Control Engineering
   #quote: >
   description: | # this will include new lines to allow paragraphs
     **GPA:** A (18.64 out of 20)
@@ -30,7 +30,7 @@
 - layout: left
   name: Isfahan University of Technology
   dates: 2013 – 2017
-  qualification: B.Sc. Control Engeineering
+  qualification: B.Sc. Control Engineering
   #quote: >
   description: | # this will include new lines to allow paragraphs
     **GPA:** A (18.45 out of 20)
