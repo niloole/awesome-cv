@@ -1,0 +1,39 @@
+# Project template
+- layout: top
+  name: A deep learning approach to predict inter-omics interactions in multi-layer networks
+  link: https://doi.org/10.1186/s12859-022-04569-2
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #quote: >
+   #Published on BMC bioinformatics, 2022
+  
+  #description: | # this will include new lines to allow paragraphs
+  
+   #Despite enormous achievements in the production of high-throughput datasets, constructing comprehensive maps of interactions remains a major challenge. 
+  description: | # this will include new lines to allow paragraphs
+   Published on BMC bioinformatics, 2022
+  
+# Project template
+- layout: top
+  name: Inefficiency of SIR models in forecasting COVID-19 epidemic a case study of Isfahan
+  link: https://doi.org/10.1038/s41598-021-84055-6
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #quote: >
+   #Published on Scientific Reports, 2021
+  
+  description: | # this will include new lines to allow paragraphs
+  
+   Published on Scientific Reports, 2021
+   
+
+# Project template
+- layout: top
+  name: Prediction of gene ontology by deep learning
+  link: https://civilica.com/doc/1290906/
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #quote: >
+   #Second place for best poster presentation at The 4th Iranian Conference on Systems Biology, 2020   
+  
+  description: | # this will include new lines to allow paragraphs
+   Second place for best poster presentation at The 4th Iranian Conference on Systems Biology, 2020
+  
+   
