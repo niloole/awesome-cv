@@ -9,8 +9,8 @@
   #description: | # this will include new lines to allow paragraphs
   
    #Despite enormous achievements in the production of high-throughput datasets, constructing comprehensive maps of interactions remains a major challenge. 
-description: | # this will include new lines to allow paragraphs
-  Published on BMC bioinformatics, 2022
+  description: | # this will include new lines to allow paragraphs
+   Published on BMC bioinformatics, 2022
   
 # Project template
 - layout: top-middle
