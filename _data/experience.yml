@@ -13,14 +13,14 @@
 - layout: top   
   company: Teacher Assistant in Deep Learning
   #link: Link to company (optional)
-  job_title: Deep Learning
+  job_title: Isfahan University of Technology, Isfahan, Iran
 
-  dates: Isfahan University of Technology
+  dates: Teacher: Mehtran safayani
 
   #quote: >
    #in Isfahan University of Technology
-  #description: | # this will include new lines to allow paragraphs
-    #in Isfahan University of Technology
+  description: | # this will include new lines to allow paragraphs
+    Design homeorks
 
 ########################    2
 - layout: top   
