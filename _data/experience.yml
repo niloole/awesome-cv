@@ -25,8 +25,8 @@
 - layout: left   
   #company: IUT
   #link: Link to company (optional)
-  job_title:  Teacher Assistant in Nonlinear Control Systems
-  dates: Isfahan University of Technology
+  job_title:  Teacher Assistant
+  dates:  Nonlinear Control Systems
 
   #quote: >
    #in Isfahan University of Technology
@@ -37,8 +37,8 @@
 - layout: left   
   #company: IUT
   #link: Link to company (optional)
-  job_title:  Teacher Assistant in Instrumentation
-  dates: Isfahan University of Technology
+  job_title:  Teacher Assistant
+  dates: Instrumentation
 
   #quote: >
    #in Isfahan University of Technology
@@ -49,13 +49,13 @@
 - layout: left   
   #company: IUT
   #link: Link to company (optional)
-  job_title:  Teacher in Instrumentation Lab
+  job_title:  Teacher
   dates: Isfahan University of Technology
 
   #quote: >
    #in Isfahan University of Technology
   description: | # this will include new lines to allow paragraphs
-    in Isfahan University of Technology
+    Instrumentation Lab
 
     
 ########################    5    
