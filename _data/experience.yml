@@ -18,8 +18,8 @@
 
   #quote: >
    #in Isfahan University of Technology
-  description: | # this will include new lines to allow paragraphs
-    in Isfahan University of Technology
+  #description: | # this will include new lines to allow paragraphs
+    #in Isfahan University of Technology
 
 ########################    2
 - layout: left   
