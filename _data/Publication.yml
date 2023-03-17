@@ -10,3 +10,15 @@
   
    Despite enormous achievements in the production of high-throughput datasets, constructing comprehensive maps of interactions remains a major challenge. 
 
+
+# Project template
+- layout: top-middle
+  name: A deep learning approach to predict inter-omics interactions in multi-layer networks
+  link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04569-2
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+   Published on BMC bioinformatics, 2022
+  
+  description: | # this will include new lines to allow paragraphs
+  
+   Despite enormous achievements in the production of high-throughput datasets, constructing comprehensive maps of interactions remains a major challenge.
