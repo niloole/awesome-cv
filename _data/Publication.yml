@@ -11,27 +11,3 @@
    Despite enormous achievements in the production of high-throughput datasets, constructing comprehensive maps of interactions remains a major challenge. 
 
 
-# Project template
-- layout: top-middle
-  name: Inefficiency of SIR models in forecasting COVID-19 epidemic: a case study of Isfahan
-  link: https://www.nature.com/articles/s41598-021-84055-6
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-   Published on Scientific Reports, 2021
-  
-  description: | # this will include new lines to allow paragraphs
-  
-   The multifaceted destructions caused by COVID-19 have been compared to that of World War II. What makes the situation even more complicated is the ambiguity about the duration and ultimate spread of the pandemic.
-
-
-# Project template
-- layout: top-middle
-  name: Prediction of gene ontology by deep learning
-  link: https://civilica.com/doc/1290906/
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-   Second place for best poster presentation at The 4th Iranian Conference on Systems Biology, 2020
-  
-  description: | # this will include new lines to allow paragraphs
-  
-   The prediction of gene functions is a major challenge in biology and bioinformatics. Gene function prediction aims to predict a set of its associated GO terms along with the confidence of the association for a given gene.
