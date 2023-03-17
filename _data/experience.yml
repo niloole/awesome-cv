@@ -10,7 +10,7 @@
     #In Nonlinear Control Systems, Instrumentation, Instrumentation Lab, Industrial Process Control, Adaptive Control, Digital Control Lab and Industrial Process Control
 
 ########################    1
-- layout: left   
+- layout: top-middle   
   company: Teacher Assistant
   #link: Link to company (optional)
   job_title: Deep Learning
@@ -22,7 +22,7 @@
     #in Isfahan University of Technology
 
 ########################    2
-- layout: left   
+- layout: top-middle   
   #company: IUT
   #link: Link to company (optional)
   job_title:  Teacher Assistant
@@ -34,7 +34,7 @@
     in Isfahan University of Technology
     
  ########################    3 
-- layout: left   
+- layout: top-middle   
   #company: IUT
   #link: Link to company (optional)
   job_title:  Teacher Assistant
@@ -46,7 +46,7 @@
     in Isfahan University of Technology
     
 ########################    4    
-- layout: left   
+- layout: top-middle   
   #company: IUT
   #link: Link to company (optional)
   job_title:  Teacher
@@ -59,7 +59,7 @@
 
     
 ########################    5    
-- layout: left   
+- layout: top-middle   
   #company: IUT
   #link: Link to company (optional)
   job_title:  Teacher Assistant
@@ -72,7 +72,7 @@
     
     
  ########################    6    
-- layout: left   
+- layout: top-middle   
   #company: IUT
   #link: Link to company (optional)
   job_title:  Teacher in Digital Control Lab
@@ -84,7 +84,7 @@
     in Isfahan University of Technology   
 
 ########################    7    
-- layout: left   
+- layout: top-middle   
   #company: IUT
   #link: Link to company (optional)
   job_title:  Teacher Assistant in Adaptive control
