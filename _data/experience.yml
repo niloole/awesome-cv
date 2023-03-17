@@ -10,6 +10,18 @@
     In Nonlinear Control Systems, Instrumentation, Instrumentation Lab, Industrial Process Control, Adaptive Control, Digital Control Lab and Industrial Process Control
     
 
+- layout: left   
+  company: IUT
+  link: Link to company (optional)
+  job_title: Teacher Assistant in Nonlinear Control Systems
+  dates: June 2020 – Present
+
+  quote: >
+   #Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    in the Research and development department at Dejpad Sanat Sazeh Company (a Knowledge-Based Company)
+
+
     
 - layout: left   
   company: IUT
