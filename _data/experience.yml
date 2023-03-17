@@ -31,20 +31,20 @@
 
   #quote: >
    #in Isfahan University of Technology
-  description: | # this will include new lines to allow paragraphs
-    in Isfahan University of Technology
+  #description: | # this will include new lines to allow paragraphs
+    #in Isfahan University of Technology
     
  ########################    3 
 - layout: top   
   #company: IUT
   #link: Link to company (optional)
-  job_title:  Teacher Assistant
-  dates: Instrumentation
+  job_title:  Teacher Assistant in Instrumentation 
+  dates: Isfahan University of Technology, Isfahan, Iran
 
   #quote: >
    #in Isfahan University of Technology
-  description: | # this will include new lines to allow paragraphs
-    in Isfahan University of Technology
+  #description: | # this will include new lines to allow paragraphs
+    #in Isfahan University of Technology
     
 ########################    4    
 - layout: top   
