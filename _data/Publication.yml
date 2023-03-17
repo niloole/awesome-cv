@@ -1,5 +1,5 @@
 # Project template
-- layout: top-middle
+- layout: left
   name: A deep learning approach to predict inter-omics interactions in multi-layer networks
   link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04569-2
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
