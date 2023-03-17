@@ -27,6 +27,8 @@ linkedin_username: niloofar-borhani-594005189
 about_profile_image: images/ax.png
 about_content: | # this will include new lines to allow paragraphs [PDF Of My Resume](https://moya10.github.io/awesome-cv/resume.pdf) 
  I received my B.Sc. and M.Sc. degrees with honors in Electrical Engineering (Control engineering) from Isfahan University of Technology (IUT), Iran, in 2020 and 2017 respectively. My graduate studies were mostly focused on the interdisciplinary field of systems biology and therefore, I used to work simultaneously at "Department of electrical and computer engineering (Isfahan university of technology)" and "Regenerative Medicine Research Center (Isfahan University of Medical Sciences)" to be able to integrate modeling approaches with hot topics in biology. 
+ 
+ 
  **Research interest:**
    - Machine learning, Deep learning
    - Network embedding
