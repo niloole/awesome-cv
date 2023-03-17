@@ -15,12 +15,12 @@
   #link: Link to company (optional)
   job_title: Isfahan University of Technology, Isfahan, Iran
 
-  dates: Teacher: Mehtran safayani
+  dates: Teacher Mehtran safayani
 
   #quote: >
    #in Isfahan University of Technology
-  description: | # this will include new lines to allow paragraphs
-    Design homeorks
+  #description: | # this will include new lines to allow paragraphs
+    #Design homeworks
 
 ########################    2
 - layout: top   
