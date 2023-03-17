@@ -11,10 +11,10 @@
     
 
     
-#- layout: left   
-  #company: Engineer
-  #link: Link to company (optional)
-  #job_title:
+- layout: left   
+  company: IUT
+  link: Link to company (optional)
+  job_title: Nonlinear Control Systems Teacher Assistant
   #dates: June 2020 – Present
 
   #quote: >
