@@ -15,12 +15,12 @@
   company: IUT
   link: Link to company (optional)
   job_title: Nonlinear Control Systems Teacher Assistant
-  #dates: June 2020 – Present
+  dates: June 2020 – Present
 
-  #quote: >
+  quote: >
    #Short description of the company (optional)
-  #description: | # this will include new lines to allow paragraphs
-    #in the Research and development department at Dejpad Sanat Sazeh Company (a Knowledge-Based Company)
+  description: | # this will include new lines to allow paragraphs
+    in the Research and development department at Dejpad Sanat Sazeh Company (a Knowledge-Based Company)
     
     
 #- layout: left   
