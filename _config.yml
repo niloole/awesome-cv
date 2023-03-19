@@ -39,7 +39,25 @@ about_content: | # this will include new lines to allow paragraphs [PDF Of My Re
    - Data science
    - Systems biology
    - Systems modeling
-    
+   
+   
+  **Related courses:**
+   - Machine learning, Deep learning
+   - Network embedding
+   - Representation learning
+   - Data science
+   - Systems biology
+   - Systems modeling
+   
+  **Related Courses:**
+   - Deep Learning
+   - Artificial Neural Network
+   - Biology (in Isfahan university of Medical Sciences)
+   - System Identification
+   - Dynamic Systems
+   - Stochastic Process
+   - Nonlinear Control   
+   
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 
