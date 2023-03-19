@@ -28,9 +28,7 @@ linkedin_username: niloofar-borhani-594005189
 about_profile_image: images/ax.png
 about_content: | # this will include new lines to allow paragraphs [PDF Of My Resume](https://moya10.github.io/awesome-cv/resume.pdf) 
  I received my B.Sc. and M.Sc. degrees with honors in Electrical Engineering (Control engineering) from Isfahan University of Technology (IUT), Iran, in 2020 and 2017 respectively. My graduate studies were mostly focused on the systems biology and therefore, I used to work simultaneously at "Department of electrical and computer engineering (Isfahan university of technology)" and "Regenerative Medicine Research Center (Isfahan University of Medical Sciences)" to be able to apply modeling approaches especially deep learning methods with hot topics in biology.   
- During my master's program, I became interested in systems biology. My M.Sc thesis was about predicting inter-omics interactions in multi-layer networks by deep learning methods.
- 
- That makes me enthusiastic to pursue a Ph.D. in the same field. The Dissertation will be about predicting the druggability of protein by machine learning methods. This can facilitate target discovery in drug development.
+ During my master's program, I became interested in systems biology. My M.Sc. thesis was about predicting inter-omics interactions in multi-layer networks by deep learning methods. As a control engineer, I was trained to identify and model systems in order to predict their responses and then implement control algorithms. While working on biological systems, I was always fascinated by how these engineered methods are suitable and helpful for biological systems and blending machine learning, statistics and data science in biology can bring novel biomedical insights.  That makes me enthusiastic to pursue a Ph.D. in the same field. The Dissertation will be about predicting the druggability of protein by machine learning methods. This can facilitate target discovery in drug development.
 
  
  
