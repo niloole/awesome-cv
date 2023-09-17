@@ -4,13 +4,13 @@
   link: https://doi.org/10.1186/s12859-022-04569-2
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
-   #Published on BMC bioinformatics, 2022
+   #Published on BMC Bioinformatics, 2022
   
   #description: | # this will include new lines to allow paragraphs
   
    #Despite enormous achievements in the production of high-throughput datasets, constructing comprehensive maps of interactions remains a major challenge. 
   description: | # this will include new lines to allow paragraphs
-   Published on BMC bioinformatics, 2022
+   Published in BMC bioinformatics, 2022
   
 # Project template
 - layout: top
