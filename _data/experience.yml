@@ -2,20 +2,33 @@
 #- layout: left
   #company: Isfahan University of Technology
   #link: Link to company (optional)
-  #job_title: Teacher assisment 
+  #job_title: Teacher Assistant 
 
   #quote: >
    #Short description of the company (optional)
   #description: | # this will include new lines to allow paragraphs
     #In Nonlinear Control Systems, Instrumentation, Instrumentation Lab, Industrial Process Control, Adaptive Control, Digital Control Lab and Industrial Process Control
 
-########################    1
+########################    0
 - layout: top   
   #company: Teacher Assistant in Deep Learning
   #link: Link to company (optional)
   job_title: Teacher Assistant in Deep Learning
 
   dates: Isfahan University of Technology, Isfahan, Iran
+
+  #quote: >
+   #in Isfahan University of Technology
+  #description: | # this will include new lines to allow paragraphs
+    #Design homeworks
+
+########################    1
+- layout: top   
+  #company: Teacher Assistant in Bioinformatics
+  #link: Link to company (optional)
+  job_title: Teacher Assistant in Bioinformatics
+
+  dates: Isfahan University of Medical Sciences
 
   #quote: >
    #in Isfahan University of Technology
@@ -38,7 +51,7 @@
 - layout: top   
   #company: IUT
   #link: Link to company (optional)
-  job_title:  Teacher Assistant in Instrumentation 
+  job_title:  Teacher assistant in Instrumentation 
   dates:  Isfahan University of Technology, Isfahan, Iran
 
   #quote: >
