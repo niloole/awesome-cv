@@ -15,6 +15,10 @@
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
       {%- endif -%}
+ 
+      {%- if site.data.projects.size > 0 -%}
+        {%- include Publication.html -%}
+      {%- endif -%}
       
       {%- if site.data.education.size > 0 -%}
         {%- include HonoursAwards.html -%}
@@ -22,10 +26,6 @@
          
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
-      {%- endif -%}
- 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include Publication.html -%}
       {%- endif -%}
 
       {%- if site.data.experience.size > 0 -%}
