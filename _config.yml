@@ -25,7 +25,7 @@ website: https://scholar.google.com/citations?user=SSD_k8MAAAAJ&hl=en&oi=ao
 # About Section
 # about_title: About Me (Use this to override about section title)    While working on biological systems, their networks and behavior, I was always fascinated by how “engineered” those systems are. As a control engineer, I was trained to implement control algorithms and yet I could detect “finely-tuned control modules” which were right there at the heart of biological networks. 
 
-about_profile_image: images/NewAX.png
+about_profile_image: images/NewAX.jpg
 about_content: | # this will include new lines to allow paragraphs [PDF Of My Resume](https://moya10.github.io/awesome-cv/resume.pdf) 
  
  
